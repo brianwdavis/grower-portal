@@ -8,7 +8,7 @@ Live demo: https://brianwdavis.shinyapps.io/Biomass/
 The .R files needed to build the app are in this repository, but API keys have been censored, so they won't actually run.
 
 This app demonstrates: 
- - pulling data from Google Sheets (where it's stored in [somewhat untidy formats](grower-portal/Screenshot_20180507-132548.png)), 
+ - pulling data from Google Sheets (where it's stored in [somewhat untidy formats](https://raw.githubusercontent.com/brianwdavis/grower-portal/master/Screenshot_20180507-132548.png)), 
  - munging the sheets, and 
  - synthesizing a report for each grower-collaborator. 
  
